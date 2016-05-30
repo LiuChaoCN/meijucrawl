@@ -17,7 +17,7 @@ namespace CrawlClient
     public class Crawl_ViewModel : ViewModelBase
     {
         #region Property
-        private string _Url = "http://www.meiwo.com/drama/513";
+        private string _Url = "";
 
         public string Url
         {
